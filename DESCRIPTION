@@ -1,6 +1,6 @@
 Package: binr
 Title: Cut Numeric Values into Evenly Distributed Groups
-Version: 1.1
+Version: 1.1.1
 Author: Sergei Izrailev
 Maintainer: Sergei Izrailev <sizrailev@jabiruventures.com>
 Description: Implementation of algorithms for cutting numerical values
@@ -9,12 +9,11 @@ Description: Implementation of algorithms for cutting numerical values
     values, such as counts, as well as for discretization of continuous values,
     for example, during generation of features used in machine learning
     algorithms.
-URL: http://github.com/jabiru/binr
+URL: https://github.com/jabiru/binr
 Depends: R (>= 2.15),
 License: Apache License (== 2.0)
 Copyright: Copyright (C) Collective, Inc. | file inst/COPYRIGHTS
-LazyData: true
-Packaged: 2015-03-10 18:32:18 UTC; sergei
+Packaged: 2022-06-26 06:52:22 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-03-10 19:47:32
+Date/Publication: 2022-06-26 06:58:08 UTC
